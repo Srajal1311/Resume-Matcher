@@ -5,3 +5,6 @@ __pycache__/
 Thumbs.db
 .env
 .streamlit/secrets.toml
+.env
+.streamlit/secrets.toml
+.secrets.toml
